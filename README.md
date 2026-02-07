@@ -10,7 +10,8 @@
 - Passionate about learning modern web technologies and building real-world projects
 - Focused on improving problem-solving and development skills every day
 - **Goal:** Get a job and become self-independent.
-- Actively learning Git branching and collaboration
+- Actively learning Git branching.
+
 
 ---
 

@@ -12,6 +12,7 @@
 - **Goal:** Get a job and become self-independent.
 - Actively learning Git branching.
 - Learning Git through real-world practice.
+- Practicing Pull Requests using GitHub workflow
 
 
 ---

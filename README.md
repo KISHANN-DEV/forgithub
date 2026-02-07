@@ -11,6 +11,7 @@
 - Focused on improving problem-solving and development skills every day
 - **Goal:** Get a job and become self-independent.
 - Actively learning Git branching.
+- Learning Git the professional way
 
 
 ---
